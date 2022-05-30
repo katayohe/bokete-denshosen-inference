@@ -1,3 +1,4 @@
 *.jpg
 *.json
 .ipynb_checkpoints
+model.tar.gz
